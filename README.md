@@ -1,4 +1,4 @@
-### Hi there, I'm Souvik - aka [mad4souvik][website] 👋
+### Hi there, I'm Souvik - aka [codassassin][website] 👋
 
 [![HitCount](http://hits.dwyl.com/codassassin/codassassin.svg)](http://hits.dwyl.com/codassassin/codassassin)
 
