@@ -54,7 +54,7 @@
 </details>
 
 [website]: https://mad4souvik.ml
-[twitter]: https://twitter.com/csouvik130
+[twitter]: https://twitter.com/mad4souvik
 [instagram]: https://instagram.com/souvik.lv.am
 [linkedin]: https://linkedin.com/in/souviktheking
 [facebook]: https://www.facebook.com/people/Souvik-Chatterjee/100008769427248
