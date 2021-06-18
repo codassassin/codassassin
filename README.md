@@ -1,4 +1,4 @@
-### Hi there, I'm Souvik - aka [codassassin][website] 👋
+### Hi there, I'm Souvik - aka [codassassin][website] <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 
 
 [![Website](https://img.shields.io/website?label=mad4souvik.ml&style=for-the-badge&url=https%3A%2F%2Fmad4souvik.ml)](https://mad4souvik.ml)
