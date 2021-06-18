@@ -50,16 +50,10 @@
   <tr>
     <td>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codassassin&show_icons=true&hide_border=true&theme=dracula" /> </td>
- <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codassassin&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> </td>
+ <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codassassin&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/> </td>
   </tr>
   
  <table>
-
-  <img align="left" alt="codassassin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codassassin&show_icons=true&theme=dracula" />
-  
-  <br />
-  
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codassassin&layout=compact&hide=html&theme=dracula" alt="codassassin" width="500"/>
 
 </details>
 
