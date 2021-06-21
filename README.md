@@ -46,15 +46,12 @@
 <details>
   <summary>:zap: GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'></summary>
   
-  <table width="100%">
-  <tr>
-    <td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codassassin&show_icons=true&hide_border=true&theme=dracula" /> </td>
- <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codassassin&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/> </td>
-  </tr>
+  <a href="https://github.com/codassassin/github-stats">
 
-  
- <table>
+![](https://github.com/codassassin/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/codassassin/github-stats/blob/master/generated/languages.svg)
+
+</a>
 
 </details>
 
