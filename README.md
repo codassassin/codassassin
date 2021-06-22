@@ -10,6 +10,8 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read books, play football and learn new facts
 
+![code](https://user-images.githubusercontent.com/55107082/122881696-0e46c080-d359-11eb-81b1-05b04a7a868d.gif)
+
 
 ### Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
