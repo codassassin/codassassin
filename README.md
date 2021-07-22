@@ -1,4 +1,4 @@
-## Hi there, I'm Souvik - aka [codassassin][website] <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+## Hi there, I'm Souvik - aka [codassassin][website] <img src = "https://user-images.githubusercontent.com/55107082/126667550-778c6fed-9923-4939-9b31-9d94c24520ae.gif" width = 50px>
 
 
 [![Website](https://img.shields.io/website?label=mad4souvik.ml&style=for-the-badge&url=https%3A%2F%2Fmad4souvik.ml)](https://mad4souvik.ml)
@@ -13,7 +13,7 @@
 ![code](https://user-images.githubusercontent.com/55107082/122881696-0e46c080-d359-11eb-81b1-05b04a7a868d.gif)
 
 
-## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+## Connect with me: <img src='https://user-images.githubusercontent.com/55107082/126667317-d015cf20-9ec0-4686-b5ae-cd3b1296a1ca.gif' width="100px">
 
 [<img align="left" alt="mad4souvik.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Souvik Chatterjee | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -23,7 +23,7 @@
 
 <br />
 
-## Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+## Languages and Tools: <img src = "https://user-images.githubusercontent.com/55107082/126667456-0bbeee2d-9e52-4d67-aa8e-47d937b1d037.gif" width = 32px>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -48,7 +48,7 @@
 
 
 <details>
-<summary> GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'></summary>
+<summary> GitHub Stats <img src='https://user-images.githubusercontent.com/55107082/126667220-27172143-8077-416a-aeba-610c543abba1.gif' width='32px'></summary>
   
   <a href="https://github.com/codassassin/github-stats">
 
