@@ -13,29 +13,22 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const mekel = {
+const codassassin = {
     species: "Human",
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Go"],
-    askMeAbout: ["Web Dev", "Tech", "Games", "Movie", "Music"],
+    code: ["Javascript", "C/C++", "Python", "Go"],
+    askMeAbout: ["Web Dev", "CyberSec", "Tech", "Games", "Movie", "Music"],
     technologies: {
-        backEnd: {
-            js: ["Node", "Express.js"],
-        },
         frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Tailwind", "Bootstrap", "Emotion.js", "Styled Components"]
+            js: ["jQuery", "Next.js"],
+            css: ["Bootstrap", "Three.js", "Styled Components"]
         },
-        mobileApp: {
-            native: ["React Native"]
-        },
-        devOps: ["AWS", "Docker 🐳"],
-        databases: ["MongoDB", "PosgreSQL", "MySQL", "FaunaDB"],
+        devOps: ["Docker 🐳"],
+        databases: ["MongoDB", "PostgreSQL", "MySQL"],
         misc: ["Firebase", "Socket.IO", "Selenium"]
     },
     architecture: ["Serverless Architecture", "Progressive Web Applications", "Single Page Applications"],
-    currentFocus: "Fullstack Javascript",
-    funFact: "I don't know how to code using PHP 😆"
+    currentFocus: "Fullstack Javascript"
 };
 ```
 
