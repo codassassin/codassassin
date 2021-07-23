@@ -10,7 +10,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read books, play football and learn new facts
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+## A little more about me.. <img src="https://user-images.githubusercontent.com/55107082/126745725-7c5d867d-9bd3-43d4-99b9-0556497fc75d.gif" width="50">  
 
 ```javascript
 const codassassin = {
@@ -23,7 +23,7 @@ const codassassin = {
             js: ["jQuery", "Next.js"],
             css: ["Bootstrap", "Three.js", "Styled Components"]
         },
-        devOps: ["Docker 🐳"],
+        devOps: ["Docker"],
         databases: ["MongoDB", "PostgreSQL", "MySQL"],
         misc: ["Firebase", "Socket.IO", "Selenium"]
     },
