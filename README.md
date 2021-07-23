@@ -3,7 +3,7 @@
 
 [![Website](https://img.shields.io/website?label=mad4souvik.ml&style=for-the-badge&url=https%3A%2F%2Fmad4souvik.ml)](https://mad4souvik.ml)
 
-## I'm a Student, Developer, and System Security enthusiast!! <img src = "https://user-images.githubusercontent.com/55107082/126738747-e1731968-2fda-4d01-bf4f-e23ffcf4d1d4.gif" width=50px>
+## I'm a Student, Developer, and System Security enthusiast!! <img src = "https://user-images.githubusercontent.com/55107082/126738747-e1731968-2fda-4d01-bf4f-e23ffcf4d1d4.gif" width=45px>
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other interested fellows
