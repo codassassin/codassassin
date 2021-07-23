@@ -10,6 +10,35 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read books, play football and learn new facts
 
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const mekel = {
+    species: "Human",
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "Python", "Go"],
+    askMeAbout: ["Web Dev", "Tech", "Games", "Movie", "Music"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express.js"],
+        },
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Tailwind", "Bootstrap", "Emotion.js", "Styled Components"]
+        },
+        mobileApp: {
+            native: ["React Native"]
+        },
+        devOps: ["AWS", "Docker 🐳"],
+        databases: ["MongoDB", "PosgreSQL", "MySQL", "FaunaDB"],
+        misc: ["Firebase", "Socket.IO", "Selenium"]
+    },
+    architecture: ["Serverless Architecture", "Progressive Web Applications", "Single Page Applications"],
+    currentFocus: "Fullstack Javascript",
+    funFact: "I don't know how to code using PHP 😆"
+};
+```
+
 ![code](https://user-images.githubusercontent.com/55107082/122881696-0e46c080-d359-11eb-81b1-05b04a7a868d.gif)
 
 
