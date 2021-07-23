@@ -10,7 +10,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read books, play football and learn new facts
 
-## A little more about me.. <img src="https://user-images.githubusercontent.com/55107082/126745725-7c5d867d-9bd3-43d4-99b9-0556497fc75d.gif" width="50">  
+## A little more about me.. <img src="https://user-images.githubusercontent.com/55107082/126745725-7c5d867d-9bd3-43d4-99b9-0556497fc75d.gif" width="60px">  
 
 ```javascript
 const codassassin = {
