@@ -75,8 +75,7 @@ const codassassin = {
   <a href="https://github.com/codassassin/github-stats">
 
 <img src="https://github.com/codassassin/github-stats/blob/master/generated/overview.svg" width="500px">
-![]()
-![](https://github.com/codassassin/github-stats/blob/master/generated/languages.svg)
+<img src="https://github.com/codassassin/github-stats/blob/master/generated/languages.svg" width="500px">
 
 </a>
 
