@@ -32,7 +32,7 @@ const codassassin = {
 };
 ```
 
-![code](https://user-images.githubusercontent.com/55107082/122881696-0e46c080-d359-11eb-81b1-05b04a7a868d.gif)
+<img src='https://user-images.githubusercontent.com/55107082/122881696-0e46c080-d359-11eb-81b1-05b04a7a868d.gif' width="1000px">
 
 
 ## Connect with me: <img src='https://user-images.githubusercontent.com/55107082/126667317-d015cf20-9ec0-4686-b5ae-cd3b1296a1ca.gif' width="100px">
