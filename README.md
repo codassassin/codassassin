@@ -71,7 +71,7 @@ const codassassin = {
 
 <details>
     <br />
-<summary> GitHub Stats <img src='https://user-images.githubusercontent.com/55107082/126667220-27172143-8077-416a-aeba-610c543abba1.gif' width='32px'></summary>
+<summary>   GitHub Stats <img src='https://user-images.githubusercontent.com/55107082/126667220-27172143-8077-416a-aeba-610c543abba1.gif' width='32px'></summary>
   
   <a href="https://github.com/codassassin/github-stats">
 
