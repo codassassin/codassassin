@@ -69,7 +69,7 @@ const codassassin = {
 ---
 
 
-## Github Stats <img src='https://user-images.githubusercontent.com/55107082/126667220-27172143-8077-416a-aeba-610c543abba1.gif' width='32px'>
+## Github Stats <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width='32px'>
 <details>
     <br />
 <summary>GitHub Stats</summary>
