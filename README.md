@@ -10,7 +10,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read books, play football and learn new facts
 
-# A little more about me.. <img src="https://user-images.githubusercontent.com/55107082/126745725-7c5d867d-9bd3-43d4-99b9-0556497fc75d.gif" width="45px">  
+# A little more about me.. <img src="https://user-images.githubusercontent.com/55107082/127729066-f839835d-b090-4328-ad1c-ff1b9858838d.gif" width="45px">  
 
 ```javascript
 const codassassin = {
@@ -93,3 +93,6 @@ const codassassin = {
 [instagram]: https://instagram.com/souvik.lv.am
 [linkedin]: https://linkedin.com/in/souviktheking
 [facebook]: https://www.facebook.com/people/Souvik-Chatterjee/100008769427248
+
+<!-- ![BlackYellowEgret-max-1mb_01](https://user-images.githubusercontent.com/55107082/127729066-f839835d-b090-4328-ad1c-ff1b9858838d.gif) -->
+
