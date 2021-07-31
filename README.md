@@ -35,7 +35,7 @@ const codassassin = {
 <img src='https://user-images.githubusercontent.com/55107082/122881696-0e46c080-d359-11eb-81b1-05b04a7a868d.gif' width="1020px">
 
 
-# Connect with me: <img src='https://user-images.githubusercontent.com/55107082/126667317-d015cf20-9ec0-4686-b5ae-cd3b1296a1ca.gif' width="45px">
+# Connect with me: <img src='https://user-images.githubusercontent.com/55107082/127729508-3c3994d4-ef95-443c-86b7-1b91bbfcee6e.gif' width="45px">
 
 [<img align="left" alt="mad4souvik.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Souvik Chatterjee | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -95,4 +95,5 @@ const codassassin = {
 [facebook]: https://www.facebook.com/people/Souvik-Chatterjee/100008769427248
 
 <!-- ![BlackYellowEgret-max-1mb_01](https://user-images.githubusercontent.com/55107082/127729066-f839835d-b090-4328-ad1c-ff1b9858838d.gif) -->
+<!-- ![handshake_01](https://user-images.githubusercontent.com/55107082/127729508-3c3994d4-ef95-443c-86b7-1b91bbfcee6e.gif) -->
 
