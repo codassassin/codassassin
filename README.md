@@ -1,5 +1,6 @@
 # Hi there, I'm Souvik - aka [codassassin][website] <img src = "https://user-images.githubusercontent.com/55107082/126667550-778c6fed-9923-4939-9b31-9d94c24520ae.gif" width = 45px>
 
+<img src = "https://github.com/codassassin/codassassin/blob/main/logo.png" width = 600px>
 
 [![Website](https://img.shields.io/website?label=mad4souvik.ml&style=for-the-badge&url=https%3A%2F%2Fmad4souvik.ml)](https://mad4souvik.ml)
 
