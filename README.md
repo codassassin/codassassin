@@ -35,7 +35,9 @@ const codassassin = {
 };
 ```
 
-<img src='https://user-images.githubusercontent.com/55107082/122881696-0e46c080-d359-11eb-81b1-05b04a7a868d.gif' width="1020px">
+<p align="center">
+    <img src='https://user-images.githubusercontent.com/55107082/122881696-0e46c080-d359-11eb-81b1-05b04a7a868d.gif' width="1020px">
+</p>
 
 
 # Connect with me: <img src='https://user-images.githubusercontent.com/55107082/127729540-ac86983e-0d77-4a4e-8222-f159987ebf30.gif' width="90px" align="right">
