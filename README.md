@@ -1,17 +1,19 @@
-# Hi there, I'm Souvik - aka [codassassin][website] <img src = "https://user-images.githubusercontent.com/55107082/126667550-778c6fed-9923-4939-9b31-9d94c24520ae.gif" width = 45px>
+# Hi there, I'm Souvik - aka [codassassin][website] <img src = "https://user-images.githubusercontent.com/55107082/126667550-778c6fed-9923-4939-9b31-9d94c24520ae.gif" width = 45px>  [<img src="https://img.shields.io/website?label=mad4souvik.ml&style=for-the-badge&url=https%3A%2F%2Fmad4souvik.ml" align="right"/>](https://mad4souvik.ml)  
 
-<img src = "https://github.com/codassassin/codassassin/blob/main/logo.png" width = 600px>
 
-[![Website](https://img.shields.io/website?label=mad4souvik.ml&style=for-the-badge&url=https%3A%2F%2Fmad4souvik.ml)](https://mad4souvik.ml)
 
-# I'm a Student, Developer, and System Security enthusiast!! <img src = "https://user-images.githubusercontent.com/55107082/126738747-e1731968-2fda-4d01-bf4f-e23ffcf4d1d4.gif" width=45px>
+<p align="center">
+    <img width = 400px src = "https://github.com/codassassin/codassassin/blob/main/logo.png">
+</p>
+
+# I'm a Student, Developer, and System Security enthusiast!! <img src = "https://user-images.githubusercontent.com/55107082/126738747-e1731968-2fda-4d01-bf4f-e23ffcf4d1d4.gif" width=45px align="right">
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other interested fellows
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read books, play football and learn new facts
 
-# A little more about me.. <img src="https://user-images.githubusercontent.com/55107082/127729066-f839835d-b090-4328-ad1c-ff1b9858838d.gif" width="45px">  
+# A little more about me.. <img src="https://user-images.githubusercontent.com/55107082/127729066-f839835d-b090-4328-ad1c-ff1b9858838d.gif" width="45px" align="right">  
 
 ```javascript
 const codassassin = {
@@ -36,7 +38,7 @@ const codassassin = {
 <img src='https://user-images.githubusercontent.com/55107082/122881696-0e46c080-d359-11eb-81b1-05b04a7a868d.gif' width="1020px">
 
 
-# Connect with me: <img src='https://user-images.githubusercontent.com/55107082/127729540-ac86983e-0d77-4a4e-8222-f159987ebf30.gif' width="90px">
+# Connect with me: <img src='https://user-images.githubusercontent.com/55107082/127729540-ac86983e-0d77-4a4e-8222-f159987ebf30.gif' width="90px" align="right">
 
 [<img align="left" alt="mad4souvik.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Souvik Chatterjee | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -46,7 +48,7 @@ const codassassin = {
 
 <br />
 
-# Languages and Tools: <img src = "https://user-images.githubusercontent.com/55107082/126667456-0bbeee2d-9e52-4d67-aa8e-47d937b1d037.gif" width = 45px>
+# Languages and Tools: <img src = "https://user-images.githubusercontent.com/55107082/126667456-0bbeee2d-9e52-4d67-aa8e-47d937b1d037.gif" width = 45px align="right">
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -70,7 +72,7 @@ const codassassin = {
 ---
 
 
-# Github Stats <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width='47px'>
+# Github Stats <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width='47px' align="right">
 <details>
     <br />
 <summary>GitHub Stats</summary>
