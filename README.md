@@ -3,7 +3,7 @@
 
 
 <p align="center">
-    <img width = 400px src = "https://github.com/codassassin/codassassin/blob/main/Wallerpaper_04.jpg">
+    <img width = 400px src = "https://github.com/codassassin/codassassin/blob/main/Wallpaper_04.jpg">
 </p>
 
 # I'm a Student, Developer, and System Security enthusiast!! <img src = "https://user-images.githubusercontent.com/55107082/126738747-e1731968-2fda-4d01-bf4f-e23ffcf4d1d4.gif" width=45px align="right">
