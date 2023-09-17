@@ -1,4 +1,4 @@
-# Hi there, I'm Souvik - aka [codassassin][website] <img src = "https://user-images.githubusercontent.com/55107082/126667550-778c6fed-9923-4939-9b31-9d94c24520ae.gif" width = 45px>  [<img src="https://img.shields.io/website?label=mad4souvik.ml&style=for-the-badge&url=https%3A%2F%2Fmad4souvik.ml" align="right" height = 35px/>](https://mad4souvik.ml)  
+# Hi there, I'm Souvik - aka [codassassin][website] <img src = "https://user-images.githubusercontent.com/55107082/126667550-778c6fed-9923-4939-9b31-9d94c24520ae.gif" width = 45px>  [<img src="https://img.shields.io/website?label=codassassin.github.io&style=for-the-badge&url=https%3A%2F%2Fcodassassin.github.io" align="right" height = 35px/>](https://codassassin.github.io/)  
 
 
 
