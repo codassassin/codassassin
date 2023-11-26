@@ -42,7 +42,7 @@ const codassassin = {
 
 # Connect with me: <img src='https://user-images.githubusercontent.com/55107082/127729540-ac86983e-0d77-4a4e-8222-f159987ebf30.gif' width="90px" align="right">
 
-[<img align="left" alt="mad4souvik.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codassassin.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Souvik Chatterjee | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Souvik Chatterjee | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="souvik.lv.am | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
