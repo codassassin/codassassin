@@ -19,12 +19,16 @@
 const codassassin = {
     species: "Human",
     pronouns: "He" | "Him",
-    code: ["Javascript", "C/C++", "Python", "Go"],
+    code: ["Javascript", "C/C++", "Python", "Go", "Java"],
     askMeAbout: ["Web Dev", "CyberSec", "Tech", "Games", "Movie", "Music"],
     technologies: {
         frontEnd: {
-            js: ["jQuery", "Next.js"],
+            js: ["jQuery", "Next.js", "React.js"],
             css: ["Bootstrap", "Three.js", "Styled Components"]
+        },
+        backEnd: {
+            js: ["Node.js"],
+            java: ["Spring Boot"]
         },
         devOps: ["Docker"],
         databases: ["MongoDB", "PostgreSQL", "MySQL"],
