@@ -97,8 +97,8 @@ const codassassin = {
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://img.shields.io/badge/nvidia-mx230-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"/> <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/> <img src="https://img.shields.io/badge/windows-asus%20x509f-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/> <img src="https://img.shields.io/badge/debian-%23A81D33.svg?&style=for-the-badge&logo=debian&logoColor=white"/> | [<img src="https://spotify-github-profile-6d72orq3n.vercel.app/api/spotify" width="900" />](https://open.spotify.com/user/21vdiiblmc6lv5b4bacgqulqi) |
 
-[website]: https://mad4souvik.ml
+[website]: https://codassassin.github.io
 [twitter]: https://twitter.com/mad4souvik
 [instagram]: https://instagram.com/souvik.lv.am
-[linkedin]: https://linkedin.com/in/souviktheking
+[linkedin]: https://www.linkedin.com/in/codassassin/
 [facebook]: https://www.facebook.com/people/Souvik-Chatterjee/100008769427248
