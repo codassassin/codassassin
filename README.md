@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other interested fellows
-- 🥅 2025 Goals: Contribute more to Open Source projects
+- 🥅 2026 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read books, play football and learn new facts
 
 # A little more about me.. <img src="https://user-images.githubusercontent.com/55107082/127729066-f839835d-b090-4328-ad1c-ff1b9858838d.gif" width="45px" align="right">  
